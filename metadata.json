@@ -1,0 +1,5 @@
+{
+  "name": "Assistente de Agenda WhatsApp para Google Calendar",
+  "description": "Uma plataforma inteligente que utiliza IA para extrair compromissos de mensagens do WhatsApp e organizá-los automaticamente no seu Google Calendar com etiquetas personalizadas como Agenda Pastoral e Evento Familiar.",
+  "requestFramePermissions": []
+}
